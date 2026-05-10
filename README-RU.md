@@ -44,8 +44,12 @@
 ## Статистика GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vadim0-0&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="Статистика" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim0-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Языки" />
+  <a href="https://github.com/Vadim0-0"><img src="https://img.shields.io/github/followers/Vadim0-0?style=for-the-badge&logo=github&label=Подписчики&labelColor=1a1b27&color=8957e5" alt="Подписчики GitHub" /></a>
+  <a href="https://github.com/Vadim0-0?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVadim0-0&label=%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8&query=%24.public_repos&logo=github&style=for-the-badge&labelColor=1a1b27&color=388bfd" alt="Публичные репозитории" /></a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vadim0-0&theme=tokyo-night&hide_border=true&radius=8" alt="Активность в репозиториях" />
 </p>
 
 ## Контакты

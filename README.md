@@ -44,8 +44,12 @@ I'm always learning—I spend most of my free time levelling up. My goal is to g
 ## GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vadim0-0&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim0-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <a href="https://github.com/Vadim0-0"><img src="https://img.shields.io/github/followers/Vadim0-0?style=for-the-badge&logo=github&label=Followers&labelColor=1a1b27&color=8957e5" alt="GitHub followers" /></a>
+  <a href="https://github.com/Vadim0-0?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVadim0-0&label=public%20repos&query=%24.public_repos&logo=github&style=for-the-badge&labelColor=1a1b27&color=388bfd" alt="Public repositories" /></a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vadim0-0&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution activity" />
 </p>
 
 ## Contact

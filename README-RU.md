@@ -1,5 +1,3 @@
-**🇬🇧 [English](README.md)**
-
 <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh5ajJrZ2thOWF6aGd6N3A3NHI3ZG4waGNhNzBlMGs1MWZjcDZuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="100%" style="max-width:800px" alt="forest">
 </div>
